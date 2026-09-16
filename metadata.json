@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Studio to Vercel: Complete Web Deployment Guide",
+  "description": "Interactive masterclass and developer toolkit to generate websites with Google AI Studio, push to GitHub, and deploy for free to Vercel with automatic CI/CD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
